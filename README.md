@@ -10,6 +10,7 @@ Color palette generation based on emotional tone.
 Visualization using Matplotlib.
 
 Simple and intuitive output for artists, designers, or mood-based interfaces.
+
 **Technologies Used**
 Python 3
 
